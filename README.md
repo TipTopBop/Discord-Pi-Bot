@@ -4,6 +4,8 @@ Note: I'm aware the role system doesn't work properly. If anyone cares and wants
 
 Python Version: 3.6.5
 
+Create the folders "autoassign". "lfg", and "roles" (without the quotation marks) inside the pi_bot folder (Github deleted them)
+
 Required Libraries:
 discord.py
 random
