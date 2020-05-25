@@ -13,4 +13,4 @@ os.path
 sys
 forex_python.bitcoin
 
-Feel free to use any of the code as long as you credit me. Ask me any questions at https://twitter.com/tiptopbup
+Feel free to use any of the code as long as you credit me.
